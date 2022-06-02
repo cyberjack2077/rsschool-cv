@@ -1,9 +1,7 @@
-![photo](photo.jpg "My photo")
----
-* **Name**: Kirill Lesnikov
-* **Date of birth**: 12/12/1978
-* **Phone**: +7 (951) 936 44 59
-* **Email**: kirill_lesnikov@mail.ru
+* **Name** : Kirill Lesnikov
+* **Date of birth** : 12/12/1978
+* **Phone** : +7 (951) 936 44 59
+* **Email** : kirill_lesnikov@mail.ru
 ---
 # Objective
 Get web development skills
